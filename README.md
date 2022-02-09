@@ -1,4 +1,4 @@
-### Hi 👋
+## Sparkiizera Profile's 👋
 
 
 Here are some ideas to get you started:
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <br />
 
 
-[![Sparkiizera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sparkiizera&show_icons=true&theme=react&align=center)](https://github.com/Sparkiizera/github-readme-stats)
+[![Sparkiizera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sparkiizera&show_icons=true&theme=react)](https://github.com/Sparkiizera/github-readme-stats)
 
 
 
