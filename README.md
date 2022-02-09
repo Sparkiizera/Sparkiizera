@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparkiizera&show_icons=true&theme=dark/)
 
+<div>
+  <a href="https://github.com/GabiiSantana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabiiSantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiiSantana&layout=compact&langs_count=16&theme=dracula"/>  
+<br>
+
+</div>
+
 ## Programing Languages
 
 <div style="display: inline_block" >
@@ -24,9 +32,5 @@ Here are some ideas to get you started:
 
 </div>
 
-<div>
-  <a href="https://github.com/Sparkiizera">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sparkiizera&show_icons=true&theme=nord/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparkiizera&layout=compact&langs_count=16&theme=nord"/>
-    
-<br>
+
+
