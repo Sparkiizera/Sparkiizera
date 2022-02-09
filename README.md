@@ -20,15 +20,6 @@ Here are some ideas to get you started:
 </div>
 
 
-## My Discord
-
-<a href="https://discord.gg/">
-  <img align="center" height="40" width="150" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-
-
-<br>
-
 
 ## Minhas Redes Sociais
 
