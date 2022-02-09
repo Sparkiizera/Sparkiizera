@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Web Development. 
 - 📫 How to reach me: Social Networks.
 
+<br />
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparkiizera&show_icons=true&theme=nord)
 
