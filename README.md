@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <br />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparkiizera&show_icons=true&theme=nord/&style=center)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparkiizera&show_icons=true&theme=nord /)
 
 ## Programing Languages
 
