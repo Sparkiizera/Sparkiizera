@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 [![Sparkiizera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sparkiizera&show_icons=true&theme=apprentice)](https://github.com/Sparkiizera/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sparkiizera&repo=github-readme-stats)](https://github.com/Sparkiizera/github-readme-stats)
+
 
 </div>
 
