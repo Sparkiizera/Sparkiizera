@@ -21,17 +21,18 @@ Here are some ideas to get you started:
 
 
 ### Minha comunidade
+<div style="style="display: inline_block"">
 <a href="https://discord.gg/Yw3n67Z9Yk">
   <img align="center" alt="Rafa-CSS" height="40" width="150" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-
+</div>
 
 <br>
 <br>
 
 
 ### Minhas Redes Sociais
-<div> 
+<div style="style="display: inline_block""> 
   <a href="https://www.youtube.com/channel/UCQ-dBcavpZ1Wj2OZdo9JU1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gabii.code/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/gabiicode" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
